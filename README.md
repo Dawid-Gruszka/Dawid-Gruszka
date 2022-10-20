@@ -3,7 +3,7 @@
 <h2 align="center"><b>🎓Estudiante de Primero de Desarrollo de Aplicaciones Multiplataforma</b>
 
 <p align="center">
-Hola 👋🏻, soy Dawid. Me encanta la informática por ello hize el grado medio y ahora estoy en el superior para ir formandome mas sobre ella.
+Hola 👋🏻, soy Dawid. Me encanta la informática por ello hize el grado medio y ahora estoy en el grado superior para ir formandome de mas cosas.
 </p>
 <hr>
 <h2 align="center"><b> ⟬ Lenguajes que utilizo ⟭ </b></h2>
