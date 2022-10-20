@@ -24,7 +24,7 @@ Me encanta la informática por ello hize el grado medio y ahora estoy en el supe
 <div align="center">
 <img width="50px" title="HTML" src="https://user-images.githubusercontent.com/90842732/139321523-7c6d407c-86d3-4465-9d99-339bd971f32f.png"/> &nbsp;
 <img width="50px" title="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/> &nbsp;
-<img width="50px" title="Kotlin" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png"/> &nbsp;>
+<img width="50px" title="Kotlin" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png"/> &nbsp;
 <img width="50px" title="XML" src="https://cdn-icons-png.flaticon.com/512/1081/1081840.png"/> &nbsp;
 </div>
 <hr>
