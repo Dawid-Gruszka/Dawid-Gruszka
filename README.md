@@ -1,17 +1,30 @@
 <img width="100%" src="https://user-images.githubusercontent.com/113442910/196990193-9d8545b3-81ad-4f2b-9abd-13cd6734930a.png"/>
 
+<br>
 <h2 align="center"><b>🎓Estudiante de Primero de Desarrollo de Aplicaciones Multiplataforma</b>
 
+<br>
+<hr>
+<h2 align="center"><b> ⟬ Un Poco sobre mi ⟭ </b></h2>
+<br>
 <p align="center">
-Hola 👋🏻, soy Dawid. Me encanta la informática por ello hize el grado medio y ahora estoy en el grado superior para ir formandome de mas cosas.
+Hola 👋🏻, soy Dawid, tengo 20 años, vivo en Fuenlabrada y estudio en el Instituto IES Luis Vives
 </p>
+<br>
+<hr>
+<h2 align="center"><b> ⟬ ¿Porque estoy aqui? ⟭ </b></h2>
+<br>
+<p align="center">
+Me encanta la informática por ello hize el grado medio y ahora estoy en el superior para ir formandome mas sobre ella.
+</p>
+<br>
 <hr>
 <h2 align="center"><b> ⟬ Lenguajes que utilizo ⟭ </b></h2>
 <br>
 <div align="center">
 <img width="50px" title="HTML" src="https://user-images.githubusercontent.com/90842732/139321523-7c6d407c-86d3-4465-9d99-339bd971f32f.png"/> &nbsp;
 <img width="50px" title="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/> &nbsp;
-<img width="50px" title="Kotlin" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png"/> &nbsp;
+<img width="50px" title="Kotlin" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png"/> &nbsp;>
 <img width="50px" title="XML" src="https://cdn-icons-png.flaticon.com/512/1081/1081840.png"/> &nbsp;
 </div>
 <hr>
@@ -23,3 +36,6 @@ Hola 👋🏻, soy Dawid. Me encanta la informática por ello hize el grado medi
 <img width="50px" title="GitKraken" src="https://user-images.githubusercontent.com/17736615/30980083-f7f8a860-a43c-11e7-939e-f6717a2210fe.png" /> &nbsp;
 <img width="50px" title="Visual Studio Code" src="https://cdn.dribbble.com/users/763495/screenshots/4651910/attachments/1050894/visual-studio.ico" /> &nbsp;
 </div>
+<br>
+<br>
+<img width="100%" src="https://user-images.githubusercontent.com/113442910/197004838-ed267dee-e880-46fb-b78f-f13ba4dc95c3.png"/>
