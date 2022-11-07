@@ -39,3 +39,4 @@ Me encanta la informática por ello hize el grado medio y ahora estoy en el supe
 <br>
 <br>
 <img width="100%" src="https://user-images.githubusercontent.com/113442910/197004838-ed267dee-e880-46fb-b78f-f13ba4dc95c3.png"/>
+<p align="center"> <img src=https://profile-counter.glitch.me/Dawid-Gruszka/count.svg/> </p>
