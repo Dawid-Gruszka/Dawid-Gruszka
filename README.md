@@ -33,6 +33,7 @@ Me encanta la informática por ello hize el grado medio y ahora estoy en el supe
 <div align="center">
 <img width="50px" title="GIT" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" /> &nbsp;
 <img width="50px" title="Intellij" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" /> &nbsp;
+<img width="50px" title="DataGrip" src="https://resources.jetbrains.com/storage/products/datagrip/img/meta/datagrip_logo_300x300.png" /> &nbsp;
 <img width="50px" title="GitKraken" src="https://user-images.githubusercontent.com/17736615/30980083-f7f8a860-a43c-11e7-939e-f6717a2210fe.png" /> &nbsp;
 <img width="50px" title="Visual Studio Code" src="https://cdn.dribbble.com/users/763495/screenshots/4651910/attachments/1050894/visual-studio.ico" /> &nbsp;
 </div>
