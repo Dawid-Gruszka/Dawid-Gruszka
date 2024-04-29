@@ -15,7 +15,7 @@ Hola 👋🏻, soy Dawid, tengo 20 años, vivo en Fuenlabrada y estudio en el In
 <h2 align="center"><b> ⟬ ¿Porque estoy aqui? ⟭ </b></h2>
 <br>
 <p align="center">
-Me encanta la informática por ello hize el grado medio y ahora estoy en el superior para ir formandome mas sobre ella.
+Me encanta la informática por ello hice el grado medio y ahora estoy en el superior para ir formandome mas sobre ella.
 </p>
 <br>
 <hr>
