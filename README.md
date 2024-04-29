@@ -8,7 +8,7 @@
 <h2 align="center"><b> ⟬ Un Poco sobre mi ⟭ </b></h2>
 <br>
 <p align="center">
-Hola 👋🏻, soy Dawid, tengo 20 años, vivo en Fuenlabrada y estudio en el Instituto IES Luis Vives
+Hola 👋🏻, soy Dawid, tengo 22 años, vivo en Fuenlabrada y estudio en el Instituto IES Luis Vives
 </p>
 <br>
 <hr>
