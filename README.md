@@ -5,39 +5,33 @@
 
 <br>
 <hr>
-<h2 align="center"><b> ⟬ Un Poco sobre mi ⟭ </b></h2>
+<h2 align="center"><b> ⟬ 💻 Un Poco sobre mi ⟭ </b></h2>
 <br>
 <p align="center">
-Hola 👋🏻, soy Dawid, tengo 22 años, vivo en Fuenlabrada y estudio en el Instituto IES Luis Vives
+Soy un desarrollador apasionado y en constante aprendizaje,especializado <br> en aplicaciones multiplatadorma. Destaco por mi capacidad para aprender rápidamente, <br> trabajar en equipo y mantener un enfoque orientado a resultados.
 </p>
 <br>
 <hr>
-<h2 align="center"><b> ⟬ ¿Porque estoy aqui? ⟭ </b></h2>
-<br>
-<p align="center">
-Me encanta la informática por ello hice el grado medio y ahora estoy en el superior para ir formandome mas sobre ella.
-</p>
-<br>
-<hr>
-<h2 align="center"><b> ⟬ Lenguajes que utilizo ⟭ </b></h2>
+<h2 align="center"><b> ⟬ 💠 Lo que utilizo 💠 ⟭ </b></h2>
 <br>
 <div align="center">
-<img width="50px" title="HTML" src="https://user-images.githubusercontent.com/90842732/139321523-7c6d407c-86d3-4465-9d99-339bd971f32f.png"/> &nbsp;
-<img width="50px" title="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/> &nbsp;
-<img width="50px" title="Kotlin" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png"/> &nbsp;
-<img width="50px" title="XML" src="https://cdn-icons-png.flaticon.com/512/1081/1081840.png"/> &nbsp;
-</div>
-<hr>
-<h2 align="center"><b> ⟬ Tecnologias ⟭ </b></h2>
+<img width="50px" title=".NET" src="https://github.com/Dawid-Gruszka/Dawid-Gruszka/blob/main/Assets/net.svg"/> &nbsp;
+<img width="50px" title="C#" src="https://github.com/Dawid-Gruszka/Dawid-Gruszka/blob/main/Assets/c%23.svg"/> &nbsp;
+<img width="50px" title="Kotlin" src="https://github.com/Dawid-Gruszka/Dawid-Gruszka/blob/main/Assets/kotlin.svg"/> &nbsp;
+<img width="50px" title="Java" src="https://github.com/Dawid-Gruszka/Dawid-Gruszka/blob/main/Assets/java.svg"/> &nbsp;
+<img width="50px" title="Python" src="https://github.com/Dawid-Gruszka/Dawid-Gruszka/blob/main/Assets/python.svg"/> &nbsp;
+<img width="50px" title="Figma" src="https://github.com/Dawid-Gruszka/Dawid-Gruszka/blob/main/Assets/figma.svg"/> &nbsp;
+<img width="50px" title="Git" src="https://github.com/Dawid-Gruszka/Dawid-Gruszka/blob/main/Assets/git.svg"/> &nbsp;
+<img width="50px" title="Docker" src="https://github.com/Dawid-Gruszka/Dawid-Gruszka/blob/main/Assets/docker.svg"/> &nbsp;
 <br>
-<div align="center">
-<img width="50px" title="GIT" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" /> &nbsp;
-<img width="50px" title="Intellij" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" /> &nbsp;
-<img width="50px" title="DataGrip" src="https://resources.jetbrains.com/storage/products/datagrip/img/meta/datagrip_logo_300x300.png" /> &nbsp;
-<img width="50px" title="GitKraken" src="https://user-images.githubusercontent.com/17736615/30980083-f7f8a860-a43c-11e7-939e-f6717a2210fe.png" /> &nbsp;
-<img width="50px" title="Visual Studio Code" src="https://cdn.dribbble.com/users/763495/screenshots/4651910/attachments/1050894/visual-studio.ico" /> &nbsp;
+<img width="50px" title="AndroidStudio" src="https://github.com/Dawid-Gruszka/Dawid-Gruszka/blob/main/Assets/android.svg"/> &nbsp;
+<img width="50px" title="Intellij" src="https://github.com/Dawid-Gruszka/Dawid-Gruszka/blob/main/Assets/IJ.svg"/> &nbsp;
+<img width="50px" title="VisualStudio" src="https://github.com/Dawid-Gruszka/Dawid-Gruszka/blob/main/Assets/visualStudio.svg"/> &nbsp;
+<img width="50px" title="MongoDB" src="https://github.com/Dawid-Gruszka/Dawid-Gruszka/blob/main/Assets/mongo.svg"/> &nbsp;
+<img width="50px" title="PostgreSQL" src="https://github.com/Dawid-Gruszka/Dawid-Gruszka/blob/main/Assets/postresql.svg"/> &nbsp;
+<img width="50px" title="PostMan" src="https://github.com/Dawid-Gruszka/Dawid-Gruszka/blob/main/Assets/postman.svg"/> &nbsp;
+<img width="50px" title="Obsidian" src="https://github.com/Dawid-Gruszka/Dawid-Gruszka/blob/main/Assets/obsidian.svg"/> &nbsp;
 </div>
 <br>
 <br>
-<img width="100%" src="https://user-images.githubusercontent.com/113442910/197004838-ed267dee-e880-46fb-b78f-f13ba4dc95c3.png"/>
 <p align="center"> <img src=https://profile-counter.glitch.me/Dawid-Gruszka/count.svg/> </p>
